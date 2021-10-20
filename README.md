@@ -7,7 +7,7 @@ Project Goals:
 By achieving the above two goals, we could apply it to business use case including product and advertising promotion, interest/topic words, and network effects.
 
 ## Team Memeber
-Zhizhuo Li
+Zhizhuo Li /n
 Qingyang Mu
 Misha Ye
 Mucong (Collin) Li
