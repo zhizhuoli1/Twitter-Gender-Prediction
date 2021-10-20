@@ -1,4 +1,4 @@
-# Twitter-Gender-Prediction
+# Twitter Gender Prediction (Data Mining Project)
 
 Project Goals:
 1. Predict the gender of the tweet account based on the tweet information
@@ -30,5 +30,5 @@ Please see EDA Analysis file for more detials.
 ### 5. Models Overview
 <img width="1130" alt="Models" src="https://user-images.githubusercontent.com/77072543/138164741-d4195384-29e2-4356-bbef-cb6ed90df37c.png">
 
-### 7. Model Evaluation & Conclusion
+### 6. Model Evaluation & Conclusion
 Please see models' files for more details.
