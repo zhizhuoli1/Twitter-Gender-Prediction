@@ -10,9 +10,9 @@ By achieving the above two goals, we could apply it to business use case includi
 Zhizhuo Li\
 Qingyang Mu\
 Misha Ye\
-Mucong (Collin) Li\
 Ruoyun Zhang\
-Chonghao Bi
+Chonghao Bi\
+Mucong (Collin) Li
 
 ## Data 
 https://www.kaggle.com/crowdflower/twitter-user-gender-classification
