@@ -32,3 +32,9 @@ Please see EDA Analysis file for more detials.
 
 ### 6. Model Evaluation & Conclusion
 Please see models' files for more details.
+
+### The following are some visualizations that cannot be shown by google colab and the first one is interactive through colab.
+<img width="1310" alt="Screen Shot 2021-10-23 at 3 22 32 PM" src="https://user-images.githubusercontent.com/77072543/138570482-1d7faf47-e3ad-4255-9d61-6dc4c2c36927.png">
+
+![bokeh_plot](https://user-images.githubusercontent.com/77072543/138570486-78dffd3f-094c-4cc1-9037-9d314ae13a74.png)
+
