@@ -18,7 +18,7 @@ Mucong (Collin) Li
 https://www.kaggle.com/crowdflower/twitter-user-gender-classification
 
 ## Project Agenda 
-### 1. Data Processing\
+### 1. Data Processing
 (1) Genderal Clearning out data such as dropping unhelpful columns, change variable datatypes, interpolating missing values\
 <img width="1140" alt="Data Preprocessing 1" src="https://user-images.githubusercontent.com/77072543/138164449-bd547def-86f7-4793-ba69-92143451a8d4.png">
 (2) Implementing stopwords and tokenizers for Natural Language Processing analysis, and adding the dataset accessible for Principal Component Analysis\
